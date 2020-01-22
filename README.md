@@ -22,7 +22,7 @@ Some of the exercises have test conditions defined in the spec file that are def
 
 * leapYears
 
-* tempConversion
+* tempConversion 
 
 ## Other
 
