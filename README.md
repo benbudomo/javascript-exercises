@@ -18,8 +18,6 @@ Some of the exercises have test conditions defined in the spec file that are def
 
 * reverseString
 
-* removeFromArray
-
 * sumAll
 
 * leapYears
