@@ -1,6 +1,6 @@
 # JavaScript Exercises
 
-These JavaScript exercises are from the The Odin Project's [Web Development 101 Online Course](https://www.theodinproject.com/courses/web-development-101/lessons/html-css). 
+These JavaScript exercises are from the The Odin Project's [Web Development 101 Online Course](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4). 
 
 ## Instructions and Goals
 
