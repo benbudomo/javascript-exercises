@@ -18,8 +18,6 @@ Some of the exercises have test conditions defined in the spec file that are def
 
 * reverseString
 
-* removeFromArray
-
 * sumAll
 
 * leapYears
@@ -29,7 +27,7 @@ Some of the exercises have test conditions defined in the spec file that are def
 ## Other
 
 * [The Odin Project's Web Development 101](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) – Project based on this online course
-* [Visual Studio Code]( https://code.visualstudio.com/) - Integrated Development Environment (IDE)
+* [Visual Studio Code]( https://code.visualstudio.com/)
 
 ## People
 
