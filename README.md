@@ -31,4 +31,4 @@ Some of the exercises have test conditions defined in the spec file that are def
 
 ## People
 
-* **[Ben Budomo](https://github.com/benbudomo)** - *Dev Padawan*
+* **[Ben Budomo](https://github.com/benbudomo)**
